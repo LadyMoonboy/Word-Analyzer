@@ -1,4 +1,4 @@
-Results of the analyzed books:
+Results of the analyzed books from the "books" folder:
 
 The book by Fredrick Backman takes around 800 milliseconds to analyze.
 The book by Geaorge R. R. Martin takes around 7.1 seconds
